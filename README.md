@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning React+Redux
-- ⚡ Fun fact: I knows PHP/MySQL/SlimMicroframe/AngularJS/Javascript/Java/GoogleCloud/ColdFusionMX/Db2/Cognos/ETL/BI/Zoho
-- 🤔 I am reading ...
+🌱 I’m currently learning React+Redux
+⚡ Fun fact: I knows PHP/MySQL/SlimMicroframe/AngularJS/Javascript/Java/GoogleCloud/ColdFusionMX/Db2/Cognos/ETL/BI/Zoho
+🤔 I am reading ...
 
 Sorting and Algorithm
 https://visualgo.net/en/sorting?slide=1-1
