@@ -24,10 +24,10 @@ Sorting and Algorithm
 https://visualgo.net/en/sorting?slide=1-1
 
 Reading List
-https://www.slimframework.com/docs/v4/
-https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
-https://www.doctrine-project.org/projects/doctrine-orm/en/2.11/tutorials/getting-started.html#what-is-doctrine
+- https://www.slimframework.com/docs/v4/
+- https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
+- https://www.doctrine-project.org/projects/doctrine-orm/en/2.11/tutorials/getting-started.html#what-is-doctrine
 
-GOV.UK React Storyboard
-https://govuk-react.github.io/govuk-react/?path=/story/welcome--page
-https://storybook.js.org/showcase/ (showcase)
+Storyboard on UI
+- https://govuk-react.github.io/govuk-react/?path=/story/welcome--page
+- https://storybook.js.org/showcase/ (showcase)
