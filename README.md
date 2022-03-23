@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently learning React+Redux
-⚡ Fun fact: I knows PHP/MySQL/SlimMicroframe/AngularJS/Javascript/Java/GoogleCloud/ColdFusionMX/Db2/Cognos/ETL/BI/Zoho
-🤔 I am reading ...
+- 🌱 I’m currently learning React+Redux
+- ⚡ Fun fact: I knows PHP/MySQL/SlimMicroframe/AngularJS/Javascript/Java/GoogleCloud/ColdFusionMX/Db2/Cognos/ETL/BI/Zoho
+- 🤔 I am reading ...
 
 Sorting and Algorithm
 https://visualgo.net/en/sorting?slide=1-1
@@ -31,3 +31,6 @@ Reading List
 Storyboard on UI
 - https://govuk-react.github.io/govuk-react/?path=/story/welcome--page
 - https://storybook.js.org/showcase/ (showcase)
+
+
+Updated on 23.03.2022
