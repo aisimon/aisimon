@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-**aisimon/aisimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Vue.js
 
-- 🌱 I’m currently learning Vue.js
-- ⚡ Fun fact: I know PHP, MySQL, SlimMicroframe, AngularJS, Javascript, Java, GoogleCloud, ColdFusionMX, Db2, Cognos, ETL, BI, Zoho
+⚡ Fun fact: I know PHP, MySQL, SlimMicroframe, AngularJS, Javascript, Java, GoogleCloud, ColdFusionMX, Db2, Cognos, ETL, BI, Zoho
 
 ### Reading List
 
