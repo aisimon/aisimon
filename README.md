@@ -3,20 +3,7 @@
 <!--
 **aisimon/aisimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React+Redux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🌱 I’m currently learning React+Redux
+- 🌱 I’m currently learning Vue.js
 - ⚡ Fun fact: I know PHP, MySQL, SlimMicroframe, AngularJS, Javascript, Java, GoogleCloud, ColdFusionMX, Db2, Cognos, ETL, BI, Zoho
 - 🤔 I am reading ...
 
@@ -34,4 +21,4 @@ Storyboard on UI
 - https://storybook.js.org/showcase/ (showcase)
 
 
-Updated on 23.03.2022
+Updated on 09.05.2022
