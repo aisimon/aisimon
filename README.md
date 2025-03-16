@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Vue.js
 
-⚡ Fun fact: I know PHP, MySQL, CakePHP, Laravel, SlimMicroframe, AngularJS, Javascript, Java, GoogleCloud, ColdFusionMX, Db2, Cognos, ETL, BI, Zoho
+⚡ Fun fact: I know PHP, MySQL, CakePHP, Laravel, SlimMicroframe, AngularJS, Javascript, Java, Google Cloud, AWS, ColdFusionMX, Db2, Cognos, ETL, BI, Zoho
 
 ### Reading List
 
