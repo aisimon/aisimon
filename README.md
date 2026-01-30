@@ -15,5 +15,12 @@ Storyboard on UI
 - https://govuk-react.github.io/govuk-react/?path=/story/welcome--page
 - https://storybook.js.org/showcase/ (showcase)
 
+### Personal Project
 
-Updated on 09.05.2022
+_Construct and Shipment API payloads for Shiptheory_
+https://aisimon.github.io/shipment-tool/
+
+_Vibe code game for my daughter_
+https://aisimon.github.io/vincci_fr1/
+
+Updated on Jan 2026
