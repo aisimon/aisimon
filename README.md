@@ -10,7 +10,7 @@
 - https://bref.sh/
 - https://support.claude.com/en/collections/14445694-claude-code
 
-## ASCII Fun
+### ASCII Fun
 - https://www.ascii-magic.com/ascii/use
 - https://asciistudio.app/
 - https://www.ascii-magic.com/app
